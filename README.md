@@ -1,4 +1,4 @@
-# hello-git-
+# hello-git
 
 #Giới thiệu bản thân
 - Họ tên: Khà A Thái
